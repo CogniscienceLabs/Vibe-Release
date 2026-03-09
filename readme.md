@@ -1,5 +1,5 @@
 # Vibe AI Assistant
-> **v0.5.15** — A Jarvis-like, multi-agent AI assistant that thinks, plans, codes, researches, and controls your desktop autonomously.
+> **v0.6** — A Jarvis-like, multi-agent AI assistant that thinks, plans, codes, researches, and controls your desktop autonomously.
 
 ---
 
@@ -285,5 +285,6 @@ def activate(ctx):
 /smoke [text]                    Quick system health check
 /debug                           Print system diagnostics
 ```
+
 
 ---
